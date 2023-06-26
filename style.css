@@ -20,7 +20,7 @@ body {
 }
 
 img {
-    height: 35rem;
+    height: 36rem;
 }
 
 .title {
@@ -94,6 +94,7 @@ input::-webkit-inner-spin-button {
 @media screen and (max-width: 640px) {
     body {
     background-image: linear-gradient(#B3ADED, white);
+    overflow: hidden;
     }
 
     .image {
